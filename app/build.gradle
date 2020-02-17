@@ -4,7 +4,7 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
 
-//apply plugin: 'com.dorongold.task-tree'
+apply plugin: 'com.dorongold.task-tree'
 
 android {
     compileSdkVersion 29
