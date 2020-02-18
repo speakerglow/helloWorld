@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
             VersionCode=${BuildConfig.VERSION_CODE}
             VersionName=${BuildConfig.VERSION_NAME}
             ApplicationId=${BuildConfig.APPLICATION_ID}
+            Flavour=${BuildConfig.FLAVOR}
         """.trimIndent()
     }
 }
